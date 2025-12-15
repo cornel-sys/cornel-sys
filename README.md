@@ -50,7 +50,3 @@ I enjoy turning complex requirements into **simple, intuitive user experiences**
 - Romanian — Native
 - English — C1
 - Russian — B2
-
-## 📫 Contact
-- Email: **corneliugutu69@gmail.com**
-- Location: **Chișinău, Moldova**
